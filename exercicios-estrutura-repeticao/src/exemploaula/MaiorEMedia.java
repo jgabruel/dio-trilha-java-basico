@@ -1,3 +1,5 @@
+package exemploaula;
+
 import java.util.Scanner;
 
 public class MaiorEMedia {
